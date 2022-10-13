@@ -1,0 +1,7 @@
+Blog - The app related to blogging platform
+
+Modules
+
+Users - id, username, password, first name, last name, mobile, email, url, linkedin, instagram, facebook, youtube
+
+Blogs
